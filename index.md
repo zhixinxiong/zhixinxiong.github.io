@@ -8,8 +8,8 @@
 > First-principle Calculation
 
 # Gromacs
-> Molecular dynamic simulation
+> Molecular Dynamic Simulation
 
-# Linux && Python
-
+# Linux & Python
+> Tools & Application
 
