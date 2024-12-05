@@ -1,4 +1,5 @@
-# Quantum Break —— DFT Learning Notes of Zhixin, Xiong
+# Quantum Break 
+## —— DFT Learning Notes of Zhixin, Xiong
 
 # Gaussian / ORCA
 > Quantum Chemical Calculation
