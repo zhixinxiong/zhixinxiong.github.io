@@ -4,10 +4,10 @@
 ## Gaussian / ORCA
 > Quantum Chemical Calculation
 
-## VASP / CP2K / Materials Studio
+## VASP / CP2K / MS
 > First-Principle Calculation
 
-## Gromacs
+## Gromacs / Lammps
 > Molecular Dynamic Simulation
 
 ## Linux & Python
