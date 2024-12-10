@@ -1,15 +1,15 @@
-# Quantum Break 
+# QUANTUM BREAK 
 —— Learning Notes ——
 
-# Gaussian / ORCA
+## Gaussian / ORCA
 > Quantum Chemical Calculation
 
-# VASP / CP2K / Materials Studio
-> First-principle Calculation
+## VASP / CP2K / Materials Studio
+> First-Principle Calculation
 
-# Gromacs
+## Gromacs
 > Molecular Dynamic Simulation
 
-# Linux & Python
+## Linux & Python
 > Tools & Application
 
